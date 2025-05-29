@@ -1,6 +1,6 @@
 mountpoints:
   /:
-    url: https://content.da.live/{ReyPRFT/aco/
+    url: https://content.da.live/ReyPRFT/aco/
     type: markup
 
 folders:
