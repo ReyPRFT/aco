@@ -8,12 +8,10 @@
           "Store": "default"
         },
         "cs": {
-         "ac-channel-id": "5cbe44a3-1b9d-4e40-a75d-e482118cbfc5",
-         "ac-environment-id": "NFBr8UivrwzutGmbX4Jxre",
-         "ac-price-book-id": "east_coast_inc",
-         "ac-scope-locale": "en-US"
-        }
-      },
+          "ac-channel-id": "5cbe44a3-1b9d-4e40-a75d-e482118cbfc5",
+          "ac-environment-id": "NFBr8UivrwzutGmbX4Jxre",
+          "ac-price-book-id": "east_coast_inc",
+          "ac-scope-locale": "en-US"
         }
       },
       "analytics": {
@@ -29,8 +27,8 @@
       },
       "plugins": {
         "picker": {
-           "rootCategory": "2"
-         }
+          "rootCategory": "2"
+        }
       }
     }
   }
